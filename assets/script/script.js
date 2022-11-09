@@ -61,4 +61,3 @@ for (let i = 0; i <time.length; i++) {
 
 $("#currentDay").text(today);
 })
-
