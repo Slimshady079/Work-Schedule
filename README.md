@@ -16,6 +16,6 @@ This app is useful for if you are trying to keep track of your work schedule. Yo
 
 MIT License
 
-## Example
+## Website Link
 
-
+My site is live at https://slimshady079.github.io/Work-Schedule/
