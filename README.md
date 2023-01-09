@@ -1,21 +1,34 @@
+
+
+
+
+
 # Work-Schedule
+![MIT](https://img.shields.io/badge/License-MIT-blue)
 
-## Description
+#### Table of Content:
+#### [Description](#description)
+#### [Installation](#installation)
+#### [Usage](#usage)
+#### [Contributing](#contributing)
+#### [Tests](#tests)
+#### [Website](#website)
 
-Allows user to keep track of their work schedules.
+## Description:
+Ever feel like you need to be more organized when it comes to your job? Well, with this app you can become more organized and prepared to tackle your day at work! How does it work?
 
-## Installation
+## Installation:
+n/a
 
-N/A
-
-## Usage
-
+## Usage:
 This app is useful for if you are trying to keep track of your work schedule. You can keep old notes from different days and edit to add more comments or delete some.
 
-## License
+## Contributing:
+n/a
 
-MIT License
+## Tests:
+n/a
 
-## Website Link
+## Website
 
 My site is live at https://slimshady079.github.io/Work-Schedule/
