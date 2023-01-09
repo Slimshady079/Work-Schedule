@@ -12,6 +12,7 @@
 #### [Usage](#usage)
 #### [Contributing](#contributing)
 #### [Tests](#tests)
+#### [Preview](#preview)
 #### [Website](#website)
 
 ## Description:
@@ -29,6 +30,12 @@ n/a
 ## Tests:
 n/a
 
+## Preview:
+
+![slimshady079 github io_Work-Schedule_](https://user-images.githubusercontent.com/115417230/211372564-a1f8a766-7f42-4485-a357-d0003e9de067.png)
+
 ## Website
 
 My site is live at https://slimshady079.github.io/Work-Schedule/
+
+
